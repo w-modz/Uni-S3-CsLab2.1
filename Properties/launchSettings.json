@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "S3Lab2": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\vitom\\OneDrive\\Pulpit\\input.csv\r\nC:\\Users\\vitom\\OneDrive\\Pulpit\\output.html"
+    }
+  }
+}
